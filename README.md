@@ -3,10 +3,12 @@
 Welcome to the Chat App Workshop! In this session, you'll be using Google's Antigravity IDE to build a real-time chat application with a Go backend and a Flutter frontend.
 
 ## Prerequisites
+- A working Google Cloud account
 - [Antigravity IDE](https://antigravity.google) installed.
 - Flutter SDK installed and configured.
 - Go installed.
 - Docker and Docker Compose installed.
+- Android Studio (optional, see ANDROID.md for alternatives)
 
 ## Getting Started
 
